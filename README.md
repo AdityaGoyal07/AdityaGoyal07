@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1203428/screenshots/4669954/hologram-3.gif" alt="MasterHead"/>
+  <img src="https://cdn.dribbble.com/users/2178578/screenshots/10655446/media/ca6900a12ad2d9fdfba567af697621bf.gif" alt="MasterHead" width = 80%/ height = 70%>
 </p>
 
 <p align="center">
@@ -80,18 +80,18 @@
   
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=x-Lysandre&theme=react" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=AdityaGoyal07&theme=react" alt="GitHub Streak" />
   </a>
   
   <br/><br/>
   
   <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=x-Lysandre&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AdityaGoyal07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/><br/>
   
   <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Lysandre&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGoyal07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
